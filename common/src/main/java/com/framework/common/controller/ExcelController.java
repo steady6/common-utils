@@ -1,6 +1,6 @@
 package com.framework.common.controller;
 
-import com.framework.common.commonutils.GenExcelUtil;
+import com.framework.common.utils.GenExcelUtil;
 import com.framework.common.entity.ExcelItem;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

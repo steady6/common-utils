@@ -1,4 +1,4 @@
-package com.framework.common.commonutils;
+package com.framework.common.utils;
 
 import jxl.Workbook;
 import jxl.biff.DisplayFormat;
